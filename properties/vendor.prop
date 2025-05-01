@@ -201,6 +201,7 @@ vendor.display.use_smooth_motion=0
 vendor.gralloc.disable_ubwc=0
 vendor.display.vds_allow_hwc=1
 vendor.display.override_doze_mode=1
+vendor.perf.framepacing.enable=1
 
 # Graphics (SurfaceFlinger durations)
 debug.sf.enable_advanced_sf_phase_offset=1
